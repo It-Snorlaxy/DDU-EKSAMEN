@@ -5,6 +5,7 @@ LR = None
 #generating salt
 salt = bcrypt.gensalt()
 
+#somehting
 def register ():
     print('Making a user')
     user = input('Navn: ')
