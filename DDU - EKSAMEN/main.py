@@ -2,6 +2,7 @@ import bcrypt
 import hashlib
 LR = None
 
+#generating salt 
 salt = bcrypt.gensalt()
 
 def register ():
