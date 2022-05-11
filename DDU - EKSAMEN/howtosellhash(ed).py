@@ -1,6 +1,4 @@
 import bcrypt
-import hashlib
-
 
 def register ():
     salt = bcrypt.gensalt()
