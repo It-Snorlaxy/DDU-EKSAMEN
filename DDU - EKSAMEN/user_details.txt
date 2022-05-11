@@ -1,7 +1,11 @@
 Admin,$2b$12$8gppykpvjYHUlqNeJXvI7ee6vzGOo1nbfAuDn6iAb2rMl5f2q1DR.,$2b$12$8gppykpvjYHUlqNeJXvI7e
 Moose,$2b$12$PPDgmLPTxqhUg7Ey2rlQ1.gS2Ifyn.mJF4A9RZZzkqFUpdHWIp55a,$2b$12$PPDgmLPTxqhUg7Ey2rlQ1.
 Moose,$2b$12$PPDgmLPTxqhUg7Ey2rlQ1.hMJbleccQXuLF1e3DxULr.w80.a2hGu,$2b$12$PPDgmLPTxqhUg7Ey2rlQ1.
+<<<<<<< HEAD
 Not_used,$2b$12$yHTVNKIuL5VCwPulwWodOefGphAdPtDtwEHMHFBs.K86xM/iobrVO,$2b$12$yHTVNKIuL5VCwPulwWodOe
 Not_used,$2b$12$yHTVNKIuL5VCwPulwWodOezA8xoWedO34k/MBKPWOwoQp8Ft8jmdi,$2b$12$yHTVNKIuL5VCwPulwWodOe
 lol,$2b$12$nllZU4mkyHFUxwRkZAVQ9uSq0iiuVt.dBEtdnrC47rYq/.mAA1u5O,$2b$12$nllZU4mkyHFUxwRkZAVQ9u
 lol,$2b$12$nllZU4mkyHFUxwRkZAVQ9uhtTgP3gn2.cxrVK8IEzjNkbHnwAZd6C,$2b$12$nllZU4mkyHFUxwRkZAVQ9u
+=======
+josh,$2b$12$7dMwXBqivgOXHP86fntXCO3zm30pW2oOWlSlJIVekd3cCsR9JdV7e,$2b$12$7dMwXBqivgOXHP86fntXCO
+>>>>>>> 6fd4c9c4a1b4b22eda3d121d2749989d9c20779e
