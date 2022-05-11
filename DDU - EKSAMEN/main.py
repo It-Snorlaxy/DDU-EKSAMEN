@@ -38,19 +38,24 @@ def Usernamecheck():
                 U_passed = True
     file.close()
 
-def logincheck (logname, logpass):
-    with open('user_details.txt','rb') as file:
-        for line in file:
-            user, hashed, salt = line.split(b',')
-            if logname == user and logpass == hashed:
-                print('Login succesful! Welcome')
-                file.close()
-                exit()
-            else:
-                pass
-        print("username or password is incorrect, try again")
-        login()
+def logincheck (logname):
+    file = open('user_details.txt','rb')
+    data = file.readlines()
     file.close()
+    for i in data:
+        i.replace(b'\n',b'')
+        user, hashed, salt = i.split(b',', -1)
+        if logname == user:
+            logpass = bcrypt.hashpw(input('password: ').encode('utf-8'), salt)
+            while True:
+                if logpass == hashed:
+                    print('Login succesful! Welcome')
+                    return
+                else:
+                    print("password incorrect, try again")
+                    logpass = bcrypt.hashpw(input('password: ').encode('utf-8'), salt)
+    print("username not registered, try again")
+    login()
 
 def logreg():
     loginregist = input('log/reg? ')
@@ -58,15 +63,13 @@ def logreg():
         print('Du er ved at logge ind')
         login()
     elif loginregist == 'reg':
-        print('Making a user')
         register()
     else:
         logreg()
 
 def login():
-    logname = input('Name: ').encode()
-    logpass = bcrypt.hashpw(input('password: ').encode('utf-8'), salt)
-    logincheck(logname, logpass)
+    logname = input('Navn: ').encode()
+    logincheck(logname)
 
 
 logreg()
