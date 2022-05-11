@@ -1,1 +1,3 @@
 Admin,$2b$12$8gppykpvjYHUlqNeJXvI7ee6vzGOo1nbfAuDn6iAb2rMl5f2q1DR.,$2b$12$8gppykpvjYHUlqNeJXvI7e
+Moose,$2b$12$PPDgmLPTxqhUg7Ey2rlQ1.gS2Ifyn.mJF4A9RZZzkqFUpdHWIp55a,$2b$12$PPDgmLPTxqhUg7Ey2rlQ1.
+Moose,$2b$12$PPDgmLPTxqhUg7Ey2rlQ1.hMJbleccQXuLF1e3DxULr.w80.a2hGu,$2b$12$PPDgmLPTxqhUg7Ey2rlQ1.

@@ -2,10 +2,9 @@ import os
 import bcrypt
 import hashlib
 
-salt = b'$2b$12$8gppykpvjYHUlqNeJXvI7e'
-
 def register ():
     global N_user
+    salt = bcrypt.gensalt()
     N_user = input('Name: ').encode()
     if os.stat("user_details.txt").st_size == 0:
         hashed = bcrypt.hashpw(input('password: ').encode('utf-8'), salt)
