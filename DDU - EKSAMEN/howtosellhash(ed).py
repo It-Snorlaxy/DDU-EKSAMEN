@@ -12,6 +12,7 @@ def register ():
     file.write(regname + b',' + hashed + b',' + salt + b'\n')
     file.close()
     logreg()
+
 #checks if login information is the same as in the database
 def logincheck (logname):
     file = open('user_details.txt','rb')
