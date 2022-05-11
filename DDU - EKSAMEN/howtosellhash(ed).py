@@ -14,7 +14,6 @@ def register ():
     logreg()
 
 def logincheck (logname):
-    print('login')
     file = open('user_details.txt','rb')
     data = file.readlines()
     file.close()
