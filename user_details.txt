@@ -1,2 +1,10 @@
 Admin,$2b$12$8gppykpvjYHUlqNeJXvI7ee6vzGOo1nbfAuDn6iAb2rMl5f2q1DR.,$2b$12$8gppykpvjYHUlqNeJXvI7e
 josh,$2b$12$n8T4wBzwYN5XWruz49mT7e/W5tfscOsDMF3VgJqAwtYbsFbxqx/9q,$2b$12$n8T4wBzwYN5XWruz49mT7e
+jish,$2b$12$Jzv1i2ciw7.u2FIsLgdUpuVMOyCamsOUGiubqFn4aaCT15xYKHj02,$2b$12$Jzv1i2ciw7.u2FIsLgdUpu
+gustav krogh,$2b$12$qhkIg9wRMGSYelXCGKGiOOyMiBFlXknulUqb3xK50wnueMIf7f3Na,$2b$12$qhkIg9wRMGSYelXCGKGiOO
+admin,$2b$12$mZGlly2sjfG/g4SXs83Zb.knF6WYuMR5njID0h3QX//hshLh7XhW6,$2b$12$mZGlly2sjfG/g4SXs83Zb.
+for,$2b$12$tJh5YBzS8uFMnln/5EWvbecF/bjrTmnlerhfzBnRcMC23Sxef.vyO,$2b$12$tJh5YBzS8uFMnln/5EWvbe
+fr,$2b$12$AlFSKI1Ap/qbWZRNGCf4OOP47lz7AZIJ2q16RZasw.Y2wiT9OEiAC,$2b$12$AlFSKI1Ap/qbWZRNGCf4OO
+joshu@,$2b$12$WamVFDnargo91lp4WiqjcuWSaJFDkgUzcoxVB1m0y/Mm6LqJpMIX2,$2b$12$WamVFDnargo91lp4Wiqjcu
+hej,$2b$12$DdhsX9a6NHWdtUvPW35PuugRY9n1LumQA6v3Ei1w6ANPHTTDT6oAq,$2b$12$DdhsX9a6NHWdtUvPW35Puu
+håj,$2b$12$K/0zPsGl9pbytrWDUII.luzCv4XN7M2QsTFOeNXAKXirLjTl6HxE6,$2b$12$K/0zPsGl9pbytrWDUII.lu
